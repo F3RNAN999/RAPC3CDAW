@@ -1,1 +1,4 @@
-# RAPC3CDAW
+Lider: 
+Aldo Ruiz
+Integrantes:
+Andrea Aquino, Fernando Paz, Jorge Copado
